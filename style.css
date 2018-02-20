@@ -9,6 +9,10 @@
 
 }
 
+ui.three.column.grid.middle.container {
+  color: whitesmoke;
+}
+
 .middle-background {
   background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
   height: 500px;
